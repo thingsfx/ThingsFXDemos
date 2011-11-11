@@ -22,7 +22,7 @@ import javafx.stage.Stage;
 
 import com.thingsfx.widget.swing.BufferedImageView;
 
-public class JFreeFXDemo extends Application {
+public class VignetteDemo extends Application {
 
     private static final boolean CREATE_GRAIN = true;  
     
